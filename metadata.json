@@ -1,0 +1,7 @@
+{
+  "name": "CreditRevive AI Voice Agent",
+  "description": "An agentic AI voice assistant designed to help users with credit repair, debt management, and financial health via real-time conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
